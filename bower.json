@@ -1,5 +1,6 @@
 {
     "name": "attrchange",
+    "main": "attrchange.js",
     "version": "1.0.1",
     "title": "jQuery attrchange Handler",
     "description": "attrchange is a simple jQuery crossbrowser plugin to bind a listener function to any HTML element on attribute change. ",
